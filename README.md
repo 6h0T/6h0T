@@ -1,7 +1,7 @@
 <div align="center">
 
 # Elio Laurencio
-### Visual Designer
+### Visual Designer • Prompt Engineer
 
 <br>
 
@@ -23,7 +23,9 @@
 `Wireframing`<br>
 `Prototipado`<br>
 `Diseño de Logotipos`<br>
-`Redes Sociales`
+`Redes Sociales`<br>
+`Design Systems`<br>
+`UX Strategy`
 
 </td>
 <td align="center" width="33%">
@@ -33,16 +35,21 @@
 `CSS3 / SASS`<br>
 `Next.js`<br>
 `Vercel`<br>
-`Pruebas de Usuario`
+`Pruebas de Usuario`<br>
+`Frontend Integration`<br>
+`Component-Based Design`
 
 </td>
 <td align="center" width="33%">
 
-### 🛠️ Herramientas
-`Figma`<br>
-`Adobe Photoshop`<br>
-`VSCode`<br>
-`CapCut`
+### 🤖 AI & Prompt Engineering
+`Prompt Engineering`<br>
+`AI Workflow Automation`<br>
+`Generative Content Design`<br>
+`LLM Orchestration`<br>
+`Multimedia AI Pipelines`<br>
+`Prompt System Design`<br>
+`AI-assisted Creative Production`
 
 </td>
 </tr>
@@ -55,6 +62,16 @@
 <br>
 
 <table>
+<tr>
+<td>
+
+### Prompt Engineer
+**🏢 Boston Asset Manager | Remoto | Jul 2025 - Actualidad**
+
+Diseño estratégico de prompts y automatización de flujos potenciados por IA para optimizar procesos internos y producción multimedia. Desarrollo de pipelines creativos, generación de contenido visual con herramientas generativas y mejora continua de workflows asistidos por IA.
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -139,7 +156,7 @@ Especialización en Diseño UI/UX y Desarrollo Web
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gh0t.art-1a1a1a?style=for-the-badge)](https://gh0t.art)
-[![Email](https://img.shields.io/badge/�_Email-Contáctame-1a1a1a?style=for-the-badge)](mailto:eliolaurencio@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contáctame-1a1a1a?style=for-the-badge)](mailto:eliolaurencio@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Escríbeme-1a1a1a?style=for-the-badge)](https://wa.me/5492615018908)
 
 <br>
@@ -148,6 +165,6 @@ Especialización en Diseño UI/UX y Desarrollo Web
 
 **📍 Mendoza, Argentina**
 
-*💡 Siempre abierto a nuevas oportunidades y colaboraciones en diseño y desarrollo web.*
+*💡 Siempre abierto a nuevas oportunidades en diseño, IA y desarrollo digital.*
 
 </div>
